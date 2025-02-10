@@ -1,7 +1,6 @@
 # autoencoderDatasetInjury
 
-TASK == WALKING
-\nCONDITION == HEALTY
+TASK == WALKING | CONDITION == HEALTY
 
 - L5 IMU
 - Rigth Leg Thigh IMU
